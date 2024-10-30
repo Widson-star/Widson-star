@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Widson-star
 - 👀 I’m interested in ...creating innovative solutions to tackle food insecurty in Africa, address the climate change menace and develop cutting edge technologies in the built environmnet.
-- 🌱 I’m currently learning ...web development by html
+- 🌱 I’m currently enhancing my skills in HTML and CSS as my first languages in coding.
 - 💞️ I’m looking to collaborate on ...projects that touch areas I have highlighted above.
 - 📫 How to reach me ...widsonambaisi@gmail.com/info@botaniquedesigners.co.ke 
 - 😄 Pronouns: ...he/him
